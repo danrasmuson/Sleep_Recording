@@ -1,0 +1,1894 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sm",
+				"SMTP"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"dco",
+				"docxObj"
+			],
+			[
+				"Doc",
+				"docxObj"
+			],
+			[
+				"ans",
+				"answerTextBox"
+			],
+			[
+				"qNum",
+				"qNumText"
+			],
+			[
+				"qN",
+				"qNumText"
+			],
+			[
+				"size",
+				"sizeQuestionArea"
+			],
+			[
+				"te",
+				"textInQandA"
+			],
+			[
+				"labelq",
+				"labelQ"
+			],
+			[
+				"labelQ",
+				"labelQNum"
+			],
+			[
+				"Comment",
+				"CommentBrowser"
+			],
+			[
+				"print",
+				"print_questions_to_console"
+			],
+			[
+				"assi",
+				"assignObj"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"lab",
+				"labNum"
+			],
+			[
+				"number",
+				"numberQuestions"
+			],
+			[
+				"tot",
+				"totalQuestion"
+			],
+			[
+				"to",
+				"totalQuestion"
+			],
+			[
+				"answer",
+				"answer"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"st",
+				"startText"
+			],
+			[
+				"f",
+				"fName"
+			],
+			[
+				"l",
+				"lName"
+			],
+			[
+				"student",
+				"studentC"
+			],
+			[
+				"rou",
+				"roundingError"
+			],
+			[
+				"get",
+				"getGradesStudentsLab  (module)"
+			],
+			[
+				"clean",
+				"cleanedValue"
+			],
+			[
+				"ques",
+				"quesBank"
+			],
+			[
+				"cle",
+				"cleanedValue"
+			],
+			[
+				"clen",
+				"cleanQBV"
+			],
+			[
+				"cl",
+				"cleanQBV"
+			],
+			[
+				"gra",
+				"gradedDict"
+			],
+			[
+				"getstud",
+				"getStudentDictionary"
+			],
+			[
+				"assign",
+				"assignObj"
+			],
+			[
+				"q",
+				"qBL"
+			],
+			[
+				"las",
+				"lastId"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"set",
+				"setStudentDictionary"
+			],
+			[
+				"quest",
+				"questionsDict"
+			],
+			[
+				"name",
+				"getName  (function)"
+			],
+			[
+				"qd",
+				"qDict"
+			],
+			[
+				"upd",
+				"UpdateQuestions"
+			],
+			[
+				"stude",
+				"studentQD"
+			],
+			[
+				"qu",
+				"questionsDict  (variable)"
+			],
+			[
+				"studnet",
+				"studentQD"
+			],
+			[
+				"sA",
+				"sAnswer"
+			],
+			[
+				"stu",
+				"studentQD"
+			],
+			[
+				"getSt",
+				"getStudentInfo"
+			],
+			[
+				"answers",
+				"answers"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"que",
+				"Question_Bank"
+			],
+			[
+				"lab1",
+				"lab1Dan"
+			],
+			[
+				"docx",
+				"docxList"
+			],
+			[
+				"p",
+				"pButton  (variable)"
+			],
+			[
+				"pos",
+				"pos"
+			],
+			[
+				"next",
+				"nextAssignment"
+			],
+			[
+				"nex",
+				"nextButton"
+			],
+			[
+				"ne",
+				"nextAssignment"
+			],
+			[
+				"as",
+				"assignmentStack"
+			],
+			[
+				"a",
+				"assignmentStack"
+			],
+			[
+				"assignment",
+				"assignmentObjects"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"create",
+				"createNextButton"
+			],
+			[
+				"can",
+				"canvasText"
+			],
+			[
+				"but",
+				"buttonInit"
+			],
+			[
+				"ex",
+				"Example"
+			],
+			[
+				"re",
+				"returnSomething"
+			],
+			[
+				"text",
+				"text1"
+			],
+			[
+				"tex",
+				"textOnScreen"
+			],
+			[
+				"answe",
+				"answerList"
+			],
+			[
+				"answ",
+				"answerDict"
+			],
+			[
+				"do",
+				"documentStr"
+			],
+			[
+				"doc",
+				"docxFile"
+			],
+			[
+				"pools",
+				"poolsAndBrackets"
+			],
+			[
+				"poo",
+				"poolsAndBrackets"
+			],
+			[
+				"bra",
+				"bracketList"
+			],
+			[
+				"pi",
+				"poolList"
+			],
+			[
+				"br",
+				"bracketList"
+			],
+			[
+				"tournamen",
+				"tournamentPage"
+			],
+			[
+				"pool",
+				"poolList"
+			],
+			[
+				"po",
+				"poolName"
+			],
+			[
+				"tou",
+				"tournamentPage"
+			],
+			[
+				"tour",
+				"tourInformation"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"source",
+				"sourceCode"
+			],
+			[
+				"le",
+				"leftLetters"
+			],
+			[
+				"score",
+				"scoreMax"
+			],
+			[
+				"sco",
+				"scoreMax"
+			],
+			[
+				"co",
+				"correctDict"
+			],
+			[
+				"asc",
+				"ascii_uppercase  (variable)"
+			],
+			[
+				"wor",
+				"wordsDictionary"
+			],
+			[
+				"word",
+				"wordsList"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pre",
+				"premadeLI"
+			],
+			[
+				"getElem",
+				"getElementsByTagName"
+			],
+			[
+				"fun",
+				"functionCall"
+			],
+			[
+				"documetn",
+				"documentPage"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"ac",
+				"activateDotBoard"
+			],
+			[
+				"s",
+				"startPoint"
+			],
+			[
+				"active",
+				"activateDot"
+			],
+			[
+				"setu",
+				"setupList"
+			],
+			[
+				"setup",
+				"setupType"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ine",
+				"inline"
+			],
+			[
+				"alert",
+				"alertFunc"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"styl",
+				"list-style"
+			],
+			[
+				"boardTo",
+				"boardToSide"
+			],
+			[
+				"play",
+				"playerColor"
+			],
+			[
+				"red",
+				"redTurn"
+			],
+			[
+				"squ",
+				"squareList"
+			],
+			[
+				"side",
+				"sideBoard"
+			],
+			[
+				"sid",
+				"sideboard"
+			],
+			[
+				"pie",
+				"pieceHolder"
+			],
+			[
+				"dots",
+				"deleteAllDots"
+			],
+			[
+				"transition",
+				"transition:   (property)"
+			],
+			[
+				"trani",
+				"transition-duration:   (property)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-left",
+				"border-left-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Python2.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"spel",
+				"Google Spell Check"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"merget",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"ti",
+				"Convert Case: Title Case"
+			],
+			[
+				"pane b",
+				"Origami: Create Pane Below"
+			],
+			[
+				"file below",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"pane",
+				"Origami: Create Pane Below"
+			],
+			[
+				"snippet new",
+				"Snippet: New Property"
+			],
+			[
+				"move right",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"mergeto",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"loc",
+				"Local History: Browse"
+			],
+			[
+				"mergetoo",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"loca",
+				"Local History: Browse"
+			],
+			[
+				"math",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"revision",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"local",
+				"Local History: Browse"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"det",
+				"Git: Delete Tag"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"defaul",
+				"Preferences: Settings - Default"
+			],
+			[
+				"KEY",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"folder",
+				"Project: Refresh Folders"
+			],
+			[
+				"clsoe",
+				"File: Close All"
+			],
+			[
+				"CLOSE",
+				"Project: Close"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"git diff",
+				"Git: Diff Tool All"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cose",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"commit",
+				"Git: Commit history"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"run",
+				"AutoHotkey - Run"
+			],
+			[
+				"com",
+				"AutoHotkey - Compile"
+			],
+			[
+				"python",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"form",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"localh",
+				"Local History: Browse"
+			],
+			[
+				"jshint",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"fllo",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"floo",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"join",
+				"Floobits - Join Recent Workspace"
+			],
+			[
+				"lea",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"floobits",
+				"Floobits - Open Workspace in a Google+ Hangout"
+			],
+			[
+				"floobit",
+				"Floobits - Share Directory (Public)"
+			],
+			[
+				"work",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"ewor",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"ev",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"calc",
+				"Calculate"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimerepl: s",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"sublimemys",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"connect",
+				"SQLExec: List connections"
+			],
+			[
+				"list",
+				"SQLExec: List connections"
+			],
+			[
+				"show",
+				"SQLExec: Show Table Records"
+			],
+			[
+				"uper",
+				"SublimeREPL: Perl"
+			],
+			[
+				"autofor",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"reform",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"flak",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"lint",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"note",
+				"Open IPython Notebook"
+			],
+			[
+				"floob",
+				"Floobits - Share Directory (Public)"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"next",
+				"SublimeLint: Next Error"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"clipbo",
+				"Clipboard Manager: Show History"
+			],
+			[
+				"clipb",
+				"Clipboard Manager: Show History"
+			],
+			[
+				"fomr",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"summon",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"summ",
+				"Floobits - Summon Everyone"
+			],
+			[
+				"sublimelin",
+				"SublimeREPL: Python - IPython"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"class OracleExecuteListCommand(sublime_plugin.WindowCommand):",
+			"sublimelinter",
+			"~/.config/sublime-text-2/Packages/SublimeLinter/sublimelinter/modules/libs/jshint/jshint.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Desktop/delete.js",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/.gitattributes",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/getPasswords.py",
+		"/C/Program Files/Sublime Text 3/delete.js",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/sendEmail.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/wokeup.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/leftHouse.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/alarm.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/1 1 0",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/toSleep.py",
+		"/C/Users/Daniel/Google Drive/myEmail.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/myEmail.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/mgmt472.sublime-project",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/passwords.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/sleep_recording.sublime-project",
+		"/C/Users/Daniel/Desktop/delete.py",
+		"/C/Python27/Lib/smtplib.py",
+		"/C/Users/Daniel/Documents/GitHub/Sleep_Recording/email.py",
+		"/C/Python27/Lib/smtpd.py",
+		"/C/Users/Daniel/Desktop/email.py",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/notes/1_28_2014.txt",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/notes/1_17_2014.txt",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/notes/1_21_2014.txt",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/WA1_Daniel_Rasmuson.docx",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/EXAM1.docx",
+		"/C/Users/Daniel/Google Drive/Classes/Philo/exam1.daniel.rasmuson.docx",
+		"/C/Users/Daniel/Google Drive/Classes/IT214/notes/1_28_2014.txt",
+		"/C/Users/Daniel/Google Drive/Classes/IT214/programs/program1282014.java",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/java.sublime-build",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/javaInput.sublime-build",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/JavaZach.sublime-build",
+		"/C/Users/Daniel/Google Drive/Classes/IT214/programs/program1-28-2014.java",
+		"/C/Users/Daniel/Google Drive/Classes/IT214/programs/1-28-2014.java",
+		"/C/Users/Daniel/Desktop/fpxAndMaverick.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/gui.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/MasterDatabase.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/math130_automation.sublime-project",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/test/Amy Holscher- Jan 23, 2014 323 PM - Lab 1 Assignment finished.docx",
+		"/C/Python27/Lib/site-packages/pydocx/DocxParser.py",
+		"/C/Python27/Lib/site-packages/BeautifulSoupTests.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/docxTest.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/outfile.txt",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/lib/colourchooser/pycolourchooser.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/tools/XRCed/encode_bitmaps.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/py/PyAlaMode.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/tools/Editra/locale/pt_BR/LC_MESSAGES/Editra.mo",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/lib/pdfviewer/bezier.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/lib/busy.py",
+		"/C/Users/Daniel/Desktop/new.docx",
+		"/C/Users/Daniel/Desktop/pythonPath.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/pydocx/DocxParser.py",
+		"/C/Python27/Lib/pydocx/DocxParser.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/README",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/_controls.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/tools/Editra/tests/syntax/actionscript.as",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/tools/Editra/tests/syntax/objective_c.mm",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/tools/Editra/src/extern/pygments/styles/native.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/lib/statbmp.py",
+		"/C/Python27/Lib/site-packages/wx-3.0-msw/wx/stc.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/assignment.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/commentBrowser.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/question_bank.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/getFiles.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/Finite Math & Intro Calc 130 07_GradesExport_2014-01-25-16-06.csv",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/lab1.dat",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/Lab 1 Assignment Complete.docx",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/completeTest/lab1DirectoryTest/Edwig Vyncke- Jan 23, 2014 256 PM - Lab+1+Assignment.docx",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/toImportDocument.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/test/greg.docx",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Examples/completeTest/gradesImportTest.csv",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/pythonOpen.sublime-snippet",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Python2.sublime-build",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/numbertest.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/pydev.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/lab1.dat",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/getGradesStudentsLab.py",
+		"/C/Users/Daniel/.sublime/history/C/Users/Daniel/Documents/GitHub/Math130_Automated/2014-01-23_21.13.27.lab1.dat",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/assignment2.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/2hpp3fsj.kjp.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/question_test.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/run.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/User/docstring.sublime-snippet",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/s4brnx5y.c5a.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/yj00aj5c.uif.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/.gitignore",
+		"/C/Users/Daniel/.sublime/history/C/Users/Daniel/Documents/GitHub/Math130_Automated/2014-01-18_06.08.52.question_bank.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Frame1.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/App1.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/readme.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/Lab_2_Assignment_Key.docx",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/test_word_data_extractor.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/result.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/passwordForEditing.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/tkinterPratice.py",
+		"/C/Users/Daniel/.sublime/history/C/Users/Daniel/Documents/GitHub/Math130_Automated/2014-01-14_09.25.18.run.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/runTkinter.py",
+		"/C/Program Files (x86)/wxPython3.0 Docs and Demos/docs/README.txt",
+		"/C/Program Files (x86)/wxPython3.0 Docs and Demos/demo/demo.py",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Python27/Lib/lib-tk/Tkinter.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/guiWindow.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/clickTesting.py",
+		"/C/Users/Daniel/AppData/Local/Evernote/Evernote/Databases/Attachments/gui.py",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/testguiWriteText.py",
+		"/C/Python27/Lib/lib-tk/Canvas.py",
+		"/C/Python27/Lib/lib-tk/Tix.py",
+		"/C/Python27/Lib/tkinter",
+		"/C/Users/Daniel/Desktop/ez_setup.py",
+		"/C/Python27/Lib/lxml/__init__.py",
+		"/C/Python27/Lib/docx/example-extracttext.py",
+		"/C/Users/Daniel/AppData/Local/Temp/Temp1_lxml-master.zip/lxml-master/INSTALL.txt",
+		"/C/Users/Daniel/Documents/GitHub/Math130_Automated/docx.py",
+		"/C/Users/Daniel/Desktop/docx/docx.py",
+		"/C/Users/Daniel/Desktop/ex_setup.py",
+		"/C/Users/Daniel/Desktop/mikemaccana-python-docx-6056b3c/setup.py",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/run.py",
+		"/C/Users/Daniel/Desktop/class.py",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/tests/allCSS.css",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/map 2013 USA Ultimate Northwest Masters Women's Regionals.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/bracketTest/sourceCode.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/map 2013 USA Ultimate Northeast Masters Regionals.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/bracketTest/sourceCode.txt",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/2012 USA Ultimate Grand Masters Championships.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/bracketTest/test3.html",
+		"/C/Users/Daniel/Documents/GitHub/Score_Reporter_Mobile/Deploy/Extraction/bracketTest/test2.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"else if",
+			" else if",
+			"}",
+			"allValues",
+			"    ",
+			"   ",
+			"  ",
+			"    ",
+			"[0]",
+			"myEmail",
+			"from sendMail",
+			"sendEmail",
+			"import email",
+			"email",
+			"print",
+			"import email.utils",
+			"promoting",
+			"true",
+			"valid",
+			"true",
+			"sound",
+			"pg",
+			"fall",
+			"fa",
+			"fall",
+			"illogical",
+			"fallacy",
+			"true",
+			"_",
+			"fulltext",
+			"text",
+			"\\",
+			"<.*?>",
+			"^ +",
+			"\\",
+			"MulitMemoizeMixin",
+			"\\",
+			"\\n",
+			"\"Cambria Math\"",
+			"^$",
+			"^ +",
+			"<.*?>",
+			"<.*?Cambria Math",
+			"  ",
+			"\\n",
+			"                ",
+			"^ *?$",
+			"^$",
+			"<.*?>",
+			" ",
+			"^$",
+			" ",
+			"<.*?>",
+			"bold",
+			"font",
+			"answer",
+			"init",
+			"inti",
+			"__init",
+			"position",
+			"StaticText",
+			"size",
+			"label",
+			"questionPacket",
+			"labelQandA",
+			"sizeQuestionArea",
+			"Question .*?:",
+			"Question ",
+			"studentDict",
+			"qs",
+			"studentQD",
+			"student",
+			"getStudentDictionary",
+			"studentQD",
+			"getGrade",
+			"getStudentDictionary",
+			"getQuestion",
+			"self.qb[self.lab]",
+			"self.studentQD",
+			"key",
+			"self.lab",
+			"self.questionsDict",
+			"QuestionsDict",
+			"questionsDict",
+			"qb",
+			"self.qb",
+			"question_bank",
+			"self.qb =",
+			"self.qb",
+			"qb",
+			"Question_Bank",
+			"answer",
+			"k",
+			"quesBank",
+			"getGradesStudentsLab",
+			"qb",
+			"qb.",
+			"getStudentAnswersFromLab",
+			"qDict",
+			"getStudentAnswersFromLab",
+			"getTotalQuesionts",
+			"getStudentAnswersFromLab",
+			"qb",
+			":",
+			". ",
+			".",
+			"\\n",
+			"\\r",
+			"replace(\"\\n\",\"\")",
+			"submit",
+			"si_score",
+			"si_wrong",
+			"wrong",
+			"score",
+			"_wrong",
+			"si_wrong",
+			"i_wrong",
+			"si_wrong",
+			"self.si_wrong",
+			"name",
+			"updateStudentInformation",
+			"student inform",
+			"student infor",
+			"replace",
+			"():\n",
+			"1",
+			"grade",
+			"answer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"sendEmail",
+			"from myEmail",
+			"sendMail",
+			"qs",
+			"documentPage.innerHTML = (documentPage.innerHTML).replace(\"</ul>\",\"\")+'<li><input id=\"switchSetup\" type=\"button\" value=\"Submit\" onclick=\"redTurn()\" /></li></ul>';",
+			"font-size: $1$2px\"",
+			"font-size: $1",
+			"font-size: $1$2px",
+			"font-size:(?! )$1-$2-$3-$4dpx",
+			"font-size:(?! )$2$3dpx",
+			"$1\n$2\n$3\n$4",
+			"font-size:(?! )$2$3dpx",
+			"font-size:(?! )$1$2dpx",
+			"px",
+			"font-size:(?! ){$1}{$2}(?!px)",
+			"\"",
+			"@TODO",
+			",",
+			"",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 166.0
+	},
+	"output.csslint_result_view":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 316.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 311.0
+	},
+	"project": "sleep_recording.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gui",
+				".gitattributes"
+			],
+			[
+				"lef",
+				"leftHouse.py"
+			],
+			[
+				"wok",
+				"wokeup.py"
+			],
+			[
+				"my",
+				"myEmail.py"
+			],
+			[
+				"pass",
+				"passwords.py"
+			],
+			[
+				"send",
+				"sendEmail.py"
+			],
+			[
+				"pas",
+				"passwords.py"
+			],
+			[
+				"se",
+				"toSleep.py"
+			],
+			[
+				"ema",
+				"email.py"
+			],
+			[
+				"woke",
+				"wokeup.py"
+			],
+			[
+				"em",
+				"email.py"
+			],
+			[
+				"wo",
+				"wokeup.py"
+			],
+			[
+				"128",
+				"notes\\1_28_2014.txt"
+			],
+			[
+				"121",
+				"notes\\1_21_2014.txt"
+			],
+			[
+				"wa",
+				"WA1_Daniel_Rasmuson.docx"
+			],
+			[
+				"exam1",
+				"exam1.daniel.rasmuson.docx"
+			],
+			[
+				"ex",
+				"EXAM1.docx"
+			],
+			[
+				"p",
+				"programs\\program1282014.java"
+			],
+			[
+				"mas",
+				"MasterDatabase.py"
+			],
+			[
+				"out",
+				"Math130_Automated\\outfile.txt"
+			],
+			[
+				"read",
+				"README"
+			],
+			[
+				"ass",
+				"assignment.py"
+			],
+			[
+				"ques",
+				"question_bank.py"
+			],
+			[
+				"ban",
+				"question_bank.py"
+			],
+			[
+				"gu",
+				"gui.py"
+			],
+			[
+				"qes",
+				"question_bank.py"
+			],
+			[
+				"get",
+				"getFiles.py"
+			],
+			[
+				"re",
+				"README"
+			],
+			[
+				"to",
+				"toImportDocument.py"
+			],
+			[
+				"grade",
+				"Examples\\completeTest\\gradesImportTest.csv"
+			],
+			[
+				"g",
+				"gui.py"
+			],
+			[
+				"qu",
+				"question_bank.py"
+			],
+			[
+				"as",
+				"assignment.py"
+			],
+			[
+				"que",
+				"question_bank.py"
+			],
+			[
+				"run",
+				"run.py"
+			],
+			[
+				"tkint",
+				"tkinterPratice.py"
+			],
+			[
+				"ru",
+				"Math130_Automated\\run.py"
+			],
+			[
+				"res",
+				"result.txt"
+			],
+			[
+				"sour",
+				"bracketTest\\sourceCode.txt"
+			],
+			[
+				"map",
+				"map 2013 USA Ultimate Northeast Masters Regionals.html"
+			],
+			[
+				"201",
+				"2012 USA Ultimate Grand Masters Championships.html"
+			],
+			[
+				"test",
+				"bracketTest\\test3.html"
+			],
+			[
+				"all",
+				"allCSS2.css"
+			],
+			[
+				"com",
+				"competitor.py"
+			],
+			[
+				"eng",
+				"engDictionaryWordList.txt"
+			],
+			[
+				"in",
+				"__init__.py"
+			],
+			[
+				"ma",
+				"__main__.py"
+			],
+			[
+				"set",
+				"js\\setup.js"
+			],
+			[
+				"setu",
+				"html\\setup.html"
+			],
+			[
+				"maset",
+				"css\\master.css"
+			],
+			[
+				"boar",
+				"js\\boardList.js"
+			],
+			[
+				"setup",
+				"js\\setup.js"
+			],
+			[
+				"bo",
+				"html\\boardlist.html"
+			],
+			[
+				"boa",
+				"js\\boardList.js"
+			],
+			[
+				"master",
+				"css\\master.css"
+			],
+			[
+				"board",
+				"js\\boardList.js"
+			],
+			[
+				"bao",
+				"js\\boardList.js"
+			],
+			[
+				"boardlist.",
+				"js\\boardList.js"
+			],
+			[
+				"maste",
+				"css\\master.css"
+			],
+			[
+				"bor",
+				"js\\boardList.js.orig"
+			],
+			[
+				"mast",
+				"css\\master.css"
+			],
+			[
+				"setup.js",
+				"js\\setup.js"
+			],
+			[
+				"vol",
+				"Deploy\\html\\involved.html"
+			],
+			[
+				"donate",
+				"Deploy\\html\\donate.html"
+			],
+			[
+				"ind",
+				"Deploy\\html\\index.html"
+			],
+			[
+				"foo",
+				"Deploy\\js\\footer.js"
+			],
+			[
+				"fot",
+				"Deploy\\html\\footer.html"
+			],
+			[
+				"footer",
+				"Deploy\\js\\footer.js"
+			],
+			[
+				"inde",
+				"Deploy\\html\\index.html"
+			],
+			[
+				"s",
+				"Deploy\\css\\style.css"
+			],
+			[
+				"e",
+				"Deploy\\html\\enter.html"
+			],
+			[
+				"enter",
+				"Deploy\\css\\enter.css"
+			],
+			[
+				"header",
+				"Deploy\\js\\header.js"
+			],
+			[
+				"sy",
+				"Deploy\\css\\style.css"
+			],
+			[
+				"he",
+				"Deploy\\html\\header.html"
+			],
+			[
+				"sty",
+				"Deploy\\css\\style.css"
+			],
+			[
+				"invo",
+				"Deploy\\html\\involved.html"
+			],
+			[
+				"als",
+				"Deploy\\html\\aboutALS.html"
+			],
+			[
+				"don",
+				"Deploy\\html\\donate.html"
+			],
+			[
+				"style",
+				"Deploy\\css\\style.css"
+			],
+			[
+				"deta",
+				"Deploy\\html\\details.html"
+			],
+			[
+				"heade",
+				"Deploy\\html\\header.html"
+			],
+			[
+				"about",
+				"Deploy\\html\\aboutALS.html"
+			],
+			[
+				"us",
+				"Deploy\\html\\us.html"
+			],
+			[
+				"styl",
+				"css\\style.css"
+			],
+			[
+				"chan",
+				"Sandy HTML Project\\cleanTextPython\\changes11-26.txt"
+			],
+			[
+				"shap",
+				"shapes2.py"
+			],
+			[
+				"shapes",
+				"shapes.py"
+			],
+			[
+				"sha",
+				"shapes.py"
+			],
+			[
+				"pa",
+				"PA5aStart.py"
+			],
+			[
+				"sql",
+				"RasmusonDZoo3SQL.txt"
+			],
+			[
+				"resu",
+				"RasmusonDZoo3Results.txt"
+			],
+			[
+				"b",
+				"html\\boardlist.html"
+			],
+			[
+				"ssql",
+				"RasmusonDZoo3SQL.txt"
+			],
+			[
+				"zoo",
+				"Zoo+Questions+3.doc"
+			],
+			[
+				"",
+				"C:\\Users\\Daniel\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\SQLExec.sublime-settings"
+			],
+			[
+				"tra",
+				"stregnthsFinderTraits.txt"
+			],
+			[
+				"changes",
+				"cleanTextPython\\changes_nov15.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"stra",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\stratego_11-23\\Stratego2\\Stratego_Project.sublime-project"
+			],
+			[
+				"ph",
+				"C:\\Users\\Daniel\\Google Drive\\Classes\\Philo\\philo.sublime-project"
+			],
+			[
+				"gui",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\ALS_Ultimate\\ALS_Ultimate.sublime-project"
+			],
+			[
+				"score",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\Score_Reporter_Mobile\\score_reporter_mobile.sublime-project"
+			],
+			[
+				"math",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\Math130_Automated\\math130_automation.sublime-workspace"
+			],
+			[
+				"mat",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\Math130_Automated\\math130_automation.sublime-workspace"
+			],
+			[
+				"st",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\stratego_11-23\\Stratego2\\Stratego_Project.sublime-project"
+			],
+			[
+				"als",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\ALS_Ultimate\\ALS_Ultimate.sublime-project"
+			],
+			[
+				"sand",
+				"C:\\Users\\Daniel\\Desktop\\Sandy HTML Project\\RevTrak_HTML_Clean.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\ALS_Ultimate\\ALS_Ultimate.sublime-workspace"
+			],
+			[
+				"revtra",
+				"C:\\Users\\Daniel\\Desktop\\Sandy HTML Project\\RevTrak_HTML_Project.sublime-project"
+			],
+			[
+				"rev",
+				"C:\\Users\\Daniel\\Desktop\\Sandy HTML Project\\RevTrak_HTML_Project.sublime-project"
+			],
+			[
+				"revtrak",
+				"C:\\Users\\Daniel\\Desktop\\Sandy HTML Project\\RevTrak_HTML_Project.sublime-project"
+			],
+			[
+				"alas",
+				"C:\\Users\\Daniel\\Documents\\GitHub\\ALS_Ultimate\\ALS_Ultimate.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
